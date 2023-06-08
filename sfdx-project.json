@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "test-app",
+      "default": true
+    }
+  ],
+  "name": "first-project",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0"
+}
